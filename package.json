@@ -1,0 +1,16 @@
+{
+  "name": "amazon-price-tracker",
+  "version": "1.0.0",
+  "description": "Tracks price of your favourite products and emails you as soon as the price goes below.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "nightmare": "^3.0.2",
+    "sendmail": "^1.6.1"
+  }
+}
